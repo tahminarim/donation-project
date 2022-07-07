@@ -23,12 +23,6 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
 
-    /*  position: relative;
-    align-items: center;
-       background-position: center;
-           height: 680px;
-    width: 100%;
-        */
 
 }
 
@@ -167,13 +161,6 @@ h1 {
     width: 100px;
     padding: 15px;
     margin: 12px;
-
-    /* margin-left: 5%;
-     width: 0%;
-     
-    border: 5px solid rgb(243, 247, 243);
-    margin-right: 5%;
-    padding-left: 20px; */
 }
 
 .euro-box p {
